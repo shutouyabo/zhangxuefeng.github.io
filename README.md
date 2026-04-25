@@ -2,6 +2,4 @@
   <img src=./docs/images/title.png >
 </div>
 
-# wiki bin
-
-
+# 张雪峰语录
