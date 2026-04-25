@@ -69,17 +69,6 @@ plugins:
           build: true
           site_name: wiki bin
           nav_translations:
-            前言: 前言
-            必学工具: 必学工具
-            日常学习工作流: 日常学习工作流
-            实用工具箱: 实用工具箱
-            毕业论文: 毕业论文
-            信息检索: 信息检索
-            好书推荐: 好书推荐
-            数学基础: 数学基础
-            数学进阶: 数学进阶
-            Python 语言: Python 语言
-            Java 语言: Java 语言
 
   - search:
       lang:
