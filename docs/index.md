@@ -1,6 +1,4 @@
-<figure markdown>
-  ![Image title](./images/title.gif){ width="600" }
-</figure>
+![](images/title.gif)
 
 # 前言
 
